@@ -1,4 +1,4 @@
-# GAN_cat_image_generation
+# GAN - Generating cat images
 Generating images of cats with LadaGAN model. 
 
 In this project, we create images using a Generative Adversarial Network (GAN) model. First, we generate cat images using a dataset from kaggle.Then, we analyze the latent space of our GAN model. LadaGAN[1] works well while using much less computing power, which is important for our limited resources. It performs similarly to top models like diffusion models but is much more efficient. This makes it a good choice for our project.
